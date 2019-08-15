@@ -32,6 +32,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile "com.android.support:appcompat-v7:23.0.1"
+    implementation 'androidx.appcompat:appcompat:1.0.0'
     compile 'com.segment.analytics.android:analytics:4.+'
 }
